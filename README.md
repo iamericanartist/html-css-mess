@@ -1,2 +1,5 @@
 # html-css-mess
-Trying weird things with regular old HTML and CSS
+## HTML & CSS / Playground
+
+[Check me out on CODEPEN](http://codepen.io/IAmericanArtist/)
+
